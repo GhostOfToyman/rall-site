@@ -91,8 +91,8 @@ export const navMenu = [
         path: '/about/personal.rs'
       },
       {
-        name: 'work.rs',
-        path: '/about/work.rs'
+        name: 'school.rs',
+        path: '/about/school.rs'
       },
       {
         name: 'gear.rs',
@@ -108,16 +108,16 @@ export const navMenu = [
         path: '/projects'
       },
       {
-        name: 'React',
-        path: '/projects?tag=react'
+        name: 'Research',
+        path: '/projects?tag=Research'
       },
       {
-        name: 'Next',
-        path: '/projects?tag=next'
+        name: 'Rust',
+        path: '/projects?tag=Rust'
       },
       {
-        name: 'HTML',
-        path: '/projects?tag=html'
+        name: 'C',
+        path: '/projects?tag=C'
       }
     ]
   },
