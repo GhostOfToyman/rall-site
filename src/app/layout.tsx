@@ -16,7 +16,7 @@ import { ENV } from '@/lib/constants'
 export const metadata: Metadata = {
   metadataBase: new URL(ENV.NEXT_PUBLIC_WEBSITE_URL),
   title: {
-    default: 'Rall',
+    default: 'Patrick Rall',
     template: '%s | Rall'
   },
   description:
