@@ -4,7 +4,7 @@ const { withContentlayer } = require('next-contentlayer')
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
-  pageExtensions: ['js', 'jsx', 'rs', 'tsx', 'md', 'mdx'],
+  pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'md', 'mdx'],
   experimental: {
     webpackBuildWorker: true,
     serverActions: {
