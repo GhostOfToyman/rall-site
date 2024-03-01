@@ -66,7 +66,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </ThemeWrapper>
         {process.env.NODE_ENV === 'production' && (
           <>
-            <Script async src='https://umami.wiscaksono.com/script.js' data-website-id='1f3b0505-7366-47bd-8757-95ad25395088' />
+            <Script async src='https://us.umami.is/script.js' data-website-id='a14254e4-96ec-491a-8d09-0aa97a320ea0' />
             <SpeedInsights />
           </>
         )}
